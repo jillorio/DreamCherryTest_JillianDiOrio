@@ -1,0 +1,43 @@
+    
+h1{
+    font-family: Impact, sans-serif;
+    text-align: center;
+}
+body{
+    -webkit-font-smoothing: antialiased;
+}
+
+p{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.45;
+    margin: .9375em 1.25em;
+}
+
+img {
+    margin: .9375em 1.25em;
+}
+#message {
+    text-align: center;
+}
+#bold {
+    text-align: center;
+    border: border: .1em solid #ccc;
+    background-color: rgba(255,0,0,0.3);   
+   
+}
+#hands {
+    width: 200;
+    height: 150;
+}
+
+.contentbox {
+    border: .1em solid #ccc;
+    box-shadow: 0 0 1.3em 0.3em #ccc;
+    background-color: #fff;
+    margin: 2em auto 0;
+    padding: 25px;
+    overflow: hidden;
+    max-width: 900px;
+    text-align: left;
+}
